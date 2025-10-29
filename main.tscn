@@ -6,8 +6,8 @@
 [node name="Main" type="Node"]
 
 [node name="Entity" parent="." instance=ExtResource("1_ig7tw")]
-position = Vector2(114, 117)
-scale = Vector2(0.4, 0.4)
+position = Vector2(13.000008, 12.000008)
 
 [node name="Terrain" parent="." instance=ExtResource("2_0xm2m")]
-position = Vector2(525, 314)
+position = Vector2(177, 125)
+scale = Vector2(1.5, 0.2)

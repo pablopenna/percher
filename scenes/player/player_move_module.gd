@@ -2,8 +2,8 @@ extends Node
 
 @export
 var actor: CharacterBody2D
-const SPEED = 300;
-const PERCHED_SPEED = 450;
+const SPEED = 150;
+const PERCHED_SPEED = 220;
 
 var is_perched = false
 	
